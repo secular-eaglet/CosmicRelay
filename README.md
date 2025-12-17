@@ -71,22 +71,7 @@ Install dependencies using your preferred package manager and run the project wi
 Optional environment variables:
 - VITE_BASE_RPC_URL
 - VITE_BASE_SEPOLIA_RPC_URL
-
-## Base Mainnet Deployment
-
-Deployed on Base Mainnet
-
-Network: Base Mainnet  
-chainId (decimal): 8453  
-Explorer: https://basescan.org  
-
-Deployed contract address:  
-your_adress  
-
-Basescan deployment and verification links:
-- https://basescan.org/address/your_adress  
-- https://basescan.org/address/your_adress#code  
-
+  
 ## License
 
 MIT License
